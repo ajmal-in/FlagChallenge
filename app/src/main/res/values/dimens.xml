@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scheduler_heading">20sp</dimen>
+    <dimen name="save_button">19sp</dimen>
+</resources>
